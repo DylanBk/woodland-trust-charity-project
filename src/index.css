@@ -8,7 +8,7 @@
   --txt: #000000;
 }
 
-.dark {
+.dark { /* used with js theme logic */
   --bg: #222222;
   --green: #055516;
   --txt: #FFFFFF;
@@ -115,6 +115,7 @@ h2, h3, p {
 .ts-content {
   margin-top: 1rem;
 }
+
 
 /* ACCESSIBILITY */
 
