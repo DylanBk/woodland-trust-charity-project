@@ -69,8 +69,8 @@ export default function App() {
             <h2 className="ts-head">Restore</h2>
           </div>
           <p className="ts-content">
-            Nature constantly faces threats such as climate change, urban growth, pollution, and disease.
-            <br /><br />The UK's ancient forests are no exception to this, they are  invaluable and precious, yet they are at risk of being lost, are irreplaceable and house habitats not possible in other areas of the United Kingdom. The Woodland Trust endeavours to protect the UK's native forests and animals.</p>
+          Covering only 2.5% of the UK, the ancient woodlands are a fragile and vulnerable habitat home to a diverse range of many unique species that cannot thrive in any other environment.
+          <br /><br />What's left is being damaged and is gone forever once it's gone. Fortunately, the Woodland Trust is working to restore them by gradually removing invasive non-native trees to allow for the original trees and plants to grow in their place.</p>
         </section>
 
         <section className="text-section">
@@ -84,8 +84,8 @@ export default function App() {
             <h2 className="ts-head">Create</h2>
           </div>
           <p className="ts-content">
-            Nature constantly faces threats such as climate change, urban growth, pollution, and disease.
-            <br /><br />The UK's ancient forests are no exception to this, they are  invaluable and precious, yet they are at risk of being lost, are irreplaceable and house habitats not possible in other areas of the United Kingdom. The Woodland Trust endeavours to protect the UK's native forests and animals.</p>
+          Woodland cover only accounts for 13% of the UK's total area, the average across the EU is 37%. Since 1972, the Woodland Trust has planted 68.5 million trees, they aim to plant 50 million more over the next five years.
+          <br /><br />Not only does planting trees help to create new habitats for animals and plants, but it also helps combat climate change. By increasing urban tree cover, we can catch more carbon and clean polluted air in urban environments.</p>
         </section>
 
       </div>
